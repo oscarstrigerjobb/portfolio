@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Instabuy - Ett VUE projekt",
+        "text": "Instabuy är ett vueprojekt där ideén var att skapa ett köp/sälj forum med olika filterfunktioner.<br><br> Link: <a href='https://github.com/strigeroscar' target='_blank'>Github</a>",
+        "image": "/image.webp"
+    },
+    {
+        "id": 2,
+        "title": "Ett JavaScript projekt",
+        "text": "I dethär JavaScript projektet så skapade jag en hemsida med ett API från cheapshark som listar upp de bästa reorna på spel från olika onlinebutiker. Det går även att sortera efter pris acsending/decsending, störst rea procentuellt och efter deal rating vilket är ett värde som baseras hur bra rean är för produkten.<br><br> Link: <a href='https://github.com/strigeroscar/Javascript-api-project' target='_blank'>Github</a>",
+        "image": "/javascriptimage.webp"
+    },
+    {
+        "id": 3,
+        "title": "Chat app",
+        "text": "Skapade en chat-app där man kan ha conversationer 1 on 1 med inloggning. Appen pratar med en databas där information om användare och conversationer sparas.<br><br> Link: <a href='https://github.com/strigeroscar/Chat-App' target='_blank'>Github</a>",
+        "image": "/chatappimage.webp"
+    },
+    {
+        "id": 4,
+        "title": "Projekt 4",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?",
+        "image": "/feather-7854908_640.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Projekt 5",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "image": "/feather-7854908_640.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Projekt 6",
+        "text": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque possimus aperiam qui praesentium at,\n temporibus saepe sapiente, reiciendis <br><br>laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?Lorem ipsum dolor sit amet consectetur adipisicing elit.</p><p> Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?Lorem ipsum dolor sit amet consectetur adipisicing elit.  Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque possimus aperiam qui praesentium at, temporibus saepe sapiente, reiciendis laborum quod alias, a perferendis mollitia! Dignissimos nesciunt quisquam voluptate ratione nobis?</p>",
+        "image": "/feather-7854908_640.jpg"
+    }
+]
